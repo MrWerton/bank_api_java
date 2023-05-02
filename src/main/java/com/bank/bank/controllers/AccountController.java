@@ -1,7 +1,7 @@
 package com.bank.bank.controllers;
 
-import com.bank.bank.controllers.services.AccountService;
 import com.bank.bank.entities.Account;
+import com.bank.bank.services.AccountService;
 
 import java.util.List;
 
